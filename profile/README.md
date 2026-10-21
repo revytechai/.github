@@ -1,53 +1,33 @@
 <div align="center">
 
-# <img src="assets/wordmark.svg" alt="REVYTECH AI" width="340">
+<img src="assets/wordmark.svg" alt="REVYTECH AI" width="340">
 
-REVYTECH platform tooling, services and the catalogues behind them.
+### Operational Services, Autonomous Systems & Catalogues
 
-[revytechinc.ai](https://revytechinc.ai) · [Repositories](https://github.com/orgs/revytechai/repositories)
+[revytechinc.ai](https://revytechinc.ai) · [revytechinc.com](https://revytechinc.com) · [REVYTECH Repositories](https://github.com/revytechinc)
 
 </div>
 
 ---
 
-## About
+## Overview
 
-`revytechai` holds the platform tooling, services and catalogues REVYTECH
-builds and runs, and the source behind the surfaces published at
-[revytechinc.ai](https://revytechinc.ai).
+`revytechai` hosts the operational services, autonomous agent tooling, and discovery catalogues behind REVYTECH, published live at [revytechinc.ai](https://revytechinc.ai).
 
-The REVYTECH platform and desktop tooling are not held here. Those
-repositories live in [revytechinc](https://github.com/revytechinc), including
-`revytechinc/appstore`, the AppStore software marketplace for CloudBSD and
-FreeBSD, and the Wayfire desktop stack in `revytechinc/wayfire`,
-`revytechinc/wf-shell` and `revytechinc/wcm`.
+We focus on AI-first systems engineering: pairing intelligent management layers with enterprise FreeBSD and CloudBSD cluster infrastructure to automate fleet orchestration, inspection, and operations.
 
-## Where things live
+The primary engineering repositories, enterprise systems, and client delivery resources reside in [revytechinc](https://github.com/revytechinc).
 
-- **[revytechinc](https://github.com/revytechinc)** — REVYTECH platform and
-  desktop tooling, including the AppStore marketplace and the Wayfire desktop
-  stack.
-- **[revytechai](https://github.com/revytechai)** — platform tooling, services
-  and catalogues.
+## Where Things Live
 
-## Where to start
-
-- **[freebsd-handbook-skills](https://github.com/revytechinc/freebsd-handbook-skills)** —
-  tested, step-by-step skills for every chapter of the FreeBSD Handbook,
-  verified from 14.0 through 16-CURRENT.
-- **[font-collection](https://github.com/revytechinc/font-collection)** —
-  the REVYTECH font collection, packaged for FreeBSD and CloudBSD first.
-- **[openproject-mcp](https://github.com/revytechinc/openproject-mcp)** —
-  an MCP server for OpenProject.
-- **[wlroots](https://github.com/revytechinc/wlroots)** —
-  the compositor library the Wayfire desktop stack is built on.
-- **[freebsd-doc](https://github.com/revytechinc/freebsd-doc)** —
-  the FreeBSD documentation tree, mirrored read-only.
+- **[revytechinc](https://github.com/revytechinc)** — REVYTECH enterprise cloud solutions, systems engineering, and open source platforms.
+- **[revytechai](https://github.com/revytechai)** — Autonomous management catalogues, runtime services, and published surfaces.
+- **[cloudbsdorg](https://github.com/cloudbsdorg)** & **[cloudbsdai](https://github.com/cloudbsdai)** — The CloudBSD operating system and AI-native virtualization cluster platform ([cloudbsd.ai](https://cloudbsd.ai) / [cloudbsd.org](https://cloudbsd.org)).
 
 ---
 
 <div align="center">
 
-*REVYTECH AI is part of REVYTECH, Inc. See [revytechinc.com](https://revytechinc.com).*
+*REVYTECH AI is part of REVYTECH, Inc. See [revytechinc.ai](https://revytechinc.ai) and [revytechinc.com](https://revytechinc.com).*
 
 </div>
