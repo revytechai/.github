@@ -1,6 +1,6 @@
 <div align="center">
 
-# REVYTECH<span style="color:#22d3ee">.AI</span>
+# <img src="assets/wordmark.svg" alt="REVYTECH AI" width="340">
 
 REVYTECH platform tooling, services and the catalogues behind them.
 
